@@ -9,4 +9,14 @@ Ferramentas utilizadas: canva (software de design gráfico) e Google Forms
 https://canva.link/8v29yxtye5ndlap
 
 ## Empresas Multimodais - ANTT
+Segunda atividade desenvolvida para o primeiro contato com formulas do excel.
+# Adesão à lei
+Perguntas respondidas: Quantas empresas tiveram adesão à lei; quantas e quais empresas são de São José dos Campos.
+<img width="567" height="289" alt="image" src="https://github.com/user-attachments/assets/e43f7f48-64e1-4af0-8304-ce88b2f0c12e" />
+
+
+## Indicadores CNAES
+Quarta atividade com dados abertos escolhidos por nósi, feito em dupla por mim e Patricia.
+Dados mostrar as atividades, tipos de serviços e suas especialidades, tanto na rede privada quanto na pública.
+<img width="1116" height="626" alt="WhatsApp Image 2026-09-26 at 21 50 54" src="https://github.com/user-attachments/assets/14abe878-28b6-43ad-b257-e8230db9c219" />
 
