@@ -12,6 +12,7 @@ https://canva.link/8v29yxtye5ndlap
 Segunda atividade desenvolvida para o primeiro contato com formulas do excel.
 # Adesão à lei
 Perguntas respondidas: Quantas empresas tiveram adesão à lei; quantas e quais empresas são de São José dos Campos.
+
 <img width="567" height="289" alt="image" src="https://github.com/user-attachments/assets/e43f7f48-64e1-4af0-8304-ce88b2f0c12e" />
 
 
