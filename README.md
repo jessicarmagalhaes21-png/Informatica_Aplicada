@@ -19,5 +19,6 @@ Perguntas respondidas: Quantas empresas tiveram adesão à lei; quantas e quais 
 ## Indicadores CNAES
 Quarta atividade com dados abertos escolhidos por nósi, feito em dupla por mim e Patricia.
 Dados mostrar as atividades, tipos de serviços e suas especialidades, tanto na rede privada quanto na pública.
+
 <img width="1116" height="626" alt="WhatsApp Image 2026-09-26 at 21 50 54" src="https://github.com/user-attachments/assets/14abe878-28b6-43ad-b257-e8230db9c219" />
 
