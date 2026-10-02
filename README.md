@@ -1,8 +1,6 @@
 # ATIVIDADES DESENVOLVIDAS NA AULA DE INFORMÁTICA 
 
-# ATIVIDADES DESENVOLVIDAS NA AULA DE INFORMÁTICA
-📑 Índice
-
+📑 # Índice
 Atividade 1 — Quem é Quem
 
 Atividade 2 — Análise de Dados — ANTT
@@ -14,58 +12,6 @@ Atividade 4 — Indicadores CNAES
 Atividade 5 — Empresas Multimodais
 
 Dashboard
-
-ATIVIDADE 1 — Quem é Quem
-
-Atividade desenvolvida para conhecimento dos hobbies dos colegas da sala.
-
-Recursos utilizados: imagens e quiz.
-
-Ferramentas utilizadas: Canva e Google Forms.
-
-ATIVIDADE 2 — Análise de Dados — ANTT
-
-Segunda atividade desenvolvida para o primeiro contato com fórmulas do Excel.
-
-A partir da inclusão da base de dados, foi possível elaborar uma tabela dinâmica específica para a consulta de CEPs por estado. Posteriormente, um gráfico dinâmico foi utilizado para demonstrar os resultados.
-
-Perguntas respondidas
-
-Quantas empresas tiveram adesão à lei?
-
-Quantas e quais empresas são de São José dos Campos?
-
-ATIVIDADE 3 — Operadores Multimodais
-
-Nesta atividade, foi utilizada uma base de dados referente aos Operadores de Transporte Multimodal, com o objetivo de organizar, analisar e apresentar as informações por meio de tabelas e gráficos desenvolvidos no Microsoft Excel.
-
-Perguntas analisadas
-
-Qual estado possui mais empresas autorizadas a realizar transporte multimodal?
-
-Qual país de origem possui mais empresas autorizadas?
-
-Quantas empresas de cada UF aderiram ao Decreto 1.563/95?
-
-ATIVIDADE 4 — Indicadores CNAES
-
-Quarta atividade realizada utilizando dados abertos, desenvolvida em dupla.
-
-Os dados apresentam informações sobre atividades, tipos de serviços e suas especialidades, abrangendo tanto a rede privada quanto a pública.
-
-ATIVIDADE 5 — Empresas Multimodais
-
-Foi desenvolvido um dashboard no Microsoft Power BI para análise de dados relacionados às empresas e aos operadores de transporte multimodal.
-
-O objetivo foi transformar os dados disponíveis em informações visuais e interativas, facilitando a análise e a comparação dos resultados.
-
-Dashboard
-
-Inserir aqui uma imagem do dashboard ou o link para o arquivo/projeto.
-
-Sobre o Projeto
-
-Projeto desenvolvido para a disciplina de Informática Aplicada, com atividades envolvendo análise de dados, Excel, Power BI, visualização de informações e utilização de dados abertos.
 
 ## ATIVIDADE 1
 # Quem é quem 
