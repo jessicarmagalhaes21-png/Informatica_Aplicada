@@ -1,17 +1,13 @@
-# ATIVIDADES DESENVOLVIDAS NA AULA DE INFORMÁTICA 
+# ATIVIDADES DESENVOLVIDAS NA AULA DE INFORMATICA
 
-📑 # Índice
-Atividade 1 — Quem é Quem
+## INDICE
 
-Atividade 2 — Análise de Dados — ANTT
-
-Atividade 3 — Operadores Multimodais
-
-Atividade 4 — Indicadores CNAES
-
-Atividade 5 — Empresas Multimodais
-
-Dashboard
+- [Atividade 1 - Quem e Quem](#atividade-1---quem-e-quem)
+- [Atividade 2 - Analise de Dados ANTT](#atividade-2---analise-de-dados-antt)
+- [Atividade 3 - Operadores Multimodais](#atividade-3---operadores-multimodais)
+- [Atividade 4 - Indicadores CNAES](#atividade-4---indicadores-cnaes)
+- [Atividade 5 - Empresas Multimodais](#atividade-5---empresas-multimodais)
+  - [Dashboard](#dashboard)
 
 ## ATIVIDADE 1
 # Quem é quem 
