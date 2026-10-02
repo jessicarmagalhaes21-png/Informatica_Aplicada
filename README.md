@@ -31,11 +31,20 @@ Nesta atividade, foi utilizada uma base de dados referente aos Operadores de Tra
 #3 Quantas empresas de cada UF aderiram ao Decreto 1563/95?
 <img width="797" height="406" alt="image" src="https://github.com/user-attachments/assets/a8d9e3a0-754c-4c81-bda0-a046561705c9" />
 
-
-
-## Indicadores CNAES
+## ATIVIDADE 4
+# Indicadores CNAES
 Quarta atividade com dados abertos escolhidos, feito em dupla por mim e Patricia.
 Dados mostram as atividades, tipos de serviços e suas especialidades, tanto na rede privada quanto na pública.
 
 <img width="1116" height="626" alt="WhatsApp Image 2026-09-26 at 21 50 54" src="https://github.com/user-attachments/assets/14abe878-28b6-43ad-b257-e8230db9c219" />
+
+## ATIVIDADE 5
+# Empresas Multimodais
+Desenvolvemos um dashboard Microsoft Power BI para análise de dados relacionados às empresas e operadores de transporte multimodal.
+
+O objetivo foi transformar os dados disponíveis em informações visuais e interativas, facilitando a análise e comparação dos resultados.
+# Dashboard
+<img width="1006" height="561" alt="image" src="https://github.com/user-attachments/assets/07b86ed1-ecaf-40d6-9492-567ce425eb6c" />
+
+
 
