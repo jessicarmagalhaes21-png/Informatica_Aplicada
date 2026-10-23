@@ -7,6 +7,7 @@
 - [Atividade 3 Operadores Multimodais](#atividade-3---operadores-multimodais)
 - [Atividade 4 Indicadores CNAES](#atividade-4---indicadores-cnaes)
 - [Atividade 5 Empresas Multimodais](#atividade-5---empresas-multimodais)
+- [Atividade 6 Dash com Figuras](#atividade-6---dash--com--figuras)
 - [Dashboard](#dashboard)
 
 ## ATIVIDADE 1
@@ -54,6 +55,12 @@ Desenvolvemos um dashboard Microsoft Power BI para análise de dados relacionado
 O objetivo foi transformar os dados disponíveis em informações visuais e interativas, facilitando a análise e comparação dos resultados.
 # Dashboard
 <img width="1006" height="561" alt="image" src="https://github.com/user-attachments/assets/07b86ed1-ecaf-40d6-9492-567ce425eb6c" />
+
+
+## ATIVIDADE 6 
+# DASH COM FIGURAS
+Desenvolvi um dash relacionado com o CNAE por região. 
+<img width="1219" height="672" alt="image" src="https://github.com/user-attachments/assets/23666093-f1ec-4873-aae5-cc9a67b90e3d" />
 
 
 
