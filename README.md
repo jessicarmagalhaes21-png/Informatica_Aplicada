@@ -62,5 +62,8 @@ O objetivo foi transformar os dados disponíveis em informações visuais e inte
 Desenvolvi um dash relacionado com o CNAE por região. 
 <img width="1219" height="672" alt="image" src="https://github.com/user-attachments/assets/23666093-f1ec-4873-aae5-cc9a67b90e3d" />
 
+## ATIVIDADE 7 - PRÉ PROVA
+
+
 
 
