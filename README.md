@@ -63,6 +63,9 @@ Desenvolvi um dash relacionado com o CNAE por região.
 <img width="1219" height="672" alt="image" src="https://github.com/user-attachments/assets/23666093-f1ec-4873-aae5-cc9a67b90e3d" />
 
 ## ATIVIDADE 7 - PRÉ PROVA
+ ##REGRESSÃO LINEAR
+ #Atividade desenvolvida co o Google Colab para comparação da regressão linear feita no excel e pela plataforma.
+ <img width="1021" height="557" alt="image" src="https://github.com/user-attachments/assets/6c64b864-ec2d-40db-a438-52ac02e2a4b9" />
 
 
 
