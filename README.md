@@ -74,6 +74,20 @@ Desenvolvi um dash relacionado com o CNAE por região.
 Atividade desenvolvida durante a prova 13/11/2026
 <img width="913" height="588" alt="image" src="https://github.com/user-attachments/assets/408a4486-cb15-4d59-8535-60a0704e18ee" />
 
+## Atividade 9 - Continuação da prova -  DASHBOARDS
+# Construir um relatório (dashboard) que contenha, no mínimo, três visualizações diferentes, sendo:
+- mapa geográfico mostrando onde há o maior número de investimentos
+- visualização relacionando município com  setor econômico envolvido
+- visualização de sua livre escolha 
+
+<img width="555" height="362" alt="image" src="https://github.com/user-attachments/assets/a86bd9d7-97c3-43bf-8c1e-65f44a9d864a" />
+
+<img width="540" height="357" alt="image" src="https://github.com/user-attachments/assets/4cdd7fd9-254c-49e0-b241-a19e93e47d85" />
+
+<img width="592" height="238" alt="image" src="https://github.com/user-attachments/assets/b9b8702b-efb9-497d-869a-9be335ebca62" />
+
+
+
  
 
 
