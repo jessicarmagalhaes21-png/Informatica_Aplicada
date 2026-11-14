@@ -86,6 +86,9 @@ Atividade desenvolvida durante a prova 13/11/2026
 
 <img width="592" height="238" alt="image" src="https://github.com/user-attachments/assets/b9b8702b-efb9-497d-869a-9be335ebca62" />
 
+video
+https://drive.google.com/file/d/13tcLfJZj0W4hUycdommSu6UmW544Ov_9/view?usp=drive_link
+
 
 
  
